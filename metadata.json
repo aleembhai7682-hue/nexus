@@ -1,0 +1,6 @@
+{
+  "name": "NEXUS DESK",
+  "description": "Desktop-first personal productivity and academic command center for Class 12 CBSE, future college studies, YouTube creation, blog operations, and Gemini AI assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
